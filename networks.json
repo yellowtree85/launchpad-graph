@@ -3,6 +3,9 @@
     "AllocationStaking": {
       "address": "0x2b9fbfbe162ed179848641df8814c6091b7fe20c",
       "startBlock": 156989028
+    },
+    "TransparentUpgradeableProxy": {
+      "address": "0x2398E427B1ab467F266992369521909a3e51dfdb"
     }
   }
 }

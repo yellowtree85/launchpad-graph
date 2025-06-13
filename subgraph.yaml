@@ -8,7 +8,7 @@ dataSources:
     name: AllocationStaking
     network: arbitrum-sepolia
     source:
-      address: "0x2b9fbfbe162ed179848641df8814c6091b7fe20c"
+      address: "0x2398E427B1ab467F266992369521909a3e51dfdb"
       abi: AllocationStaking
       startBlock: 156989028
     mapping:
